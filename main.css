@@ -1,0 +1,50 @@
+body {
+    background-image: url(./photo-1473773508845-188df298d2d1.jpeg);
+}
+
+
+.main {
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 5px rgb(104, 101, 101);
+    font-size: large;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(104, 101, 101);
+    color: white;
+    
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(98, 214, 98);
+}
+
+div {
+    text-align: center;
+    color: white;
+    border: solid 10px rgb(104, 101, 101);
+    background-color:rgb(104, 101, 101);
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    height: 2px;
+}
+
+#video{
+    text-align: center;
+    position: fixed;
+    top: 40%;
+    right: 22%;
+    width: 800px;
+    height: 400px;
+    padding-top: 1%;
+
+}
